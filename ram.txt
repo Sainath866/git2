@@ -1,1 +1,1 @@
-ggggggggg
+cin>>"hello";
